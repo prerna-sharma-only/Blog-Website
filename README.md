@@ -6,8 +6,12 @@
 ![Render](https://img.shields.io/badge/Deployed%20on-Render-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-ISC-lightgrey?style=for-the-badge)
 
-A dynamic and fully functional **Blog Web Application** built using **Node.js, Express, and EJS**.
-This project demonstrates server-side rendering, routing, and dynamic content handling.
+## 📖 About
+
+This project is a full-stack blog application developed using **Node.js, Express, and EJS**.  
+It demonstrates core backend concepts like routing, server-side rendering, and dynamic content handling.
+
+The application allows users to create and view blog posts through a simple and intuitive interface, making it a great beginner-friendly full-stack project.
 
 ---
 

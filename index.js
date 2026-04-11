@@ -1,6 +1,6 @@
 import express from 'express';
 const app = express();
-const port = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.static("public"));
 app.set('view engine', 'ejs')
@@ -199,6 +199,6 @@ app.post("/delete/:id",(req,res)=>{
     res.redirect('/');
 })
 
-app.listen(port,()=>{
-    console.log(`Server is listening at port ${port}`);
-})
+app.listen(PORT, () => {
+  console.log(`Server running on port ${PORT}`);
+});

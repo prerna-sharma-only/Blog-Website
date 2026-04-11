@@ -1,0 +1,24 @@
+<%#  Home page (sab blogs dikhane ke liye) %>
+<%-include("./partials/header.ejs")%>
+    <!--  <h1><em>Blog Website</em></h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/create">Create</a>
+    </nav> -->
+    <ul> 
+        <% blogs.forEach(blog => {%>
+            <li>
+                <%#-- Link banaya with blog id %>
+                <a href="/blogs/<%= blog.id %>"><%= blog.title %></a>
+                <form action="/edit/<%= blog.id %>" method="GET" style="display:inline;">
+                    <button type="submit">Edit</button>
+                </form>
+
+                <!-- Delete button -->
+                <form action="/delete/<%= blog.id %>" method="POST" style="display:inline;">
+                    <button type="submit" onclick="return confirm('Are you sure?')">Delete</button>
+                </form>
+            </li>
+        <%});%>
+    </ul>
+<%-include("./partials/footer.ejs")%>

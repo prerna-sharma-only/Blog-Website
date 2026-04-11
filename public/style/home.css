@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(235, 214, 156);
+    margin-top:1rem;
+}
+#h1first{
+    color:rgb(222, 220, 216);
+    font-weight:bold ;
+    font-size: 2rem;
+    margin:0;
+}
+.navbar{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:1rem;
+    padding-right:1rem;
+    /* gap : 2rem; */
+}
+#s1{
+    color:rgb(221, 182, 195);
+}
+#s2{
+    color:rgb(221, 182, 195);
+}
+ul li a{
+    color:rgb(168, 43, 85);
+}
+#h1sec{
+    color:rgb(82, 8, 33);
+}
+p{
+    color:rgb(168, 43, 85);
+}
+#footers {
+  position: absolute;
+  bottom: 0;
+}
+.post-content{
+    white-space: pre-wrap;
+}

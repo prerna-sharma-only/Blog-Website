@@ -1,0 +1,15 @@
+<%# Blog edit karne ka form %>
+<%-include("./partials/header.ejs")%>
+    <form action="/edit/<%=blog.id%>" method="POST">
+        <br>
+        <input type="text" name="title" value="<%=blog.title%>"><br><br>
+        <textarea name="content" rows="30" cols="100" ><%=blog.content%></textarea>
+        <button type="submit">Update</button>
+    </form>
+<footer>
+  <!-- Step 4 - Add a dynamic year to the footer using JS. -->
+  <p>Copyright © <%=year%></p>
+</footer>
+</body>
+
+</html>

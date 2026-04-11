@@ -1,0 +1,15 @@
+<%# Blog create karne ka form %>
+<%-include("./partials/header.ejs")%>
+    <form action="/create" method="POST">
+        <br>
+        <input type="text" name="title" placeholder="Enter Your Blog Title" required><br><br>
+        <textarea name="content" rows="30" cols="100" placeholder="Write Your Blog Here....." required></textarea><br><br>
+        <button type="submit">Publish</button>
+    </form>
+<footer>
+  <!-- Step 4 - Add a dynamic year to the footer using JS. -->
+  <p>Copyright ©<%=year%></p>
+</footer>
+</body>
+
+</html>

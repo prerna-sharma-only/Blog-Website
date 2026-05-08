@@ -23,27 +23,7 @@
 
 </div>
 
-
-
-
-
-
-
-________________________________________
-
-
-
-
-
-
-
-# 📝 Blog Website
-
-![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-Backend-black?style=for-the-badge\&logo=express)
-![EJS](https://img.shields.io/badge/EJS-Template-orange?style=for-the-badge)
-![Render](https://img.shields.io/badge/Deployed%20on-Render-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-ISC-lightgrey?style=for-the-badge)
+---
 
 ## 📖 About
 

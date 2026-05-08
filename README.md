@@ -10,16 +10,25 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/Node.js-18+-111827?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-<img src="https://img.shields.io/badge/Express.js-Backend-1f2937?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/EJS-Template-f59e0b?style=for-the-badge&logo=ejs&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-Deployed-0f172a?style=for-the-badge&logo=render&logoColor=46E3B7" />
-<img src="https://img.shields.io/badge/License-ISC-334155?style=for-the-badge" />
+<div align="center">
+
+## ⚡ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/License-ISC-blue?style=for-the-badge" />
+
+</div>
 
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=prerna-sharma-only&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 

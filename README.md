@@ -10,6 +10,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ## ⚡ Tech Stack
@@ -32,12 +34,14 @@
 
 <div align="center">
 
+---
+
 ## 🏆 GitHub Achievements
 
 <br>
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" 
+src="https://github-profile-trophy.vercel.app/?username=prerna-sharma-only&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" 
 alt="GitHub Trophies" 
 width="100%" 
 />

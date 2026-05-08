@@ -16,10 +16,12 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,html,css,js" />
+<img src="https://skillicons.dev/icons?i=nodejs,html,css,js,vscode,git,github" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
 <img src="https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/License-ISC-blue?style=for-the-badge" />
 
@@ -28,7 +30,19 @@
 <br/>
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=prerna-sharma-only&theme=radical&no-frame=true&row=1&column=6" />
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+<br>
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" 
+alt="GitHub Trophies" 
+width="100%" 
+/>
+
+</div>
 
 </div>
 

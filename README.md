@@ -40,11 +40,9 @@
 
 <br>
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=prerna-sharma-only&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" 
-alt="GitHub Trophies" 
-width="100%" 
-/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prerna-sharma-only&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prerna-sharma-only&layout=compact&theme=tokyonight"/>
 
 </div>
 

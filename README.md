@@ -185,15 +185,37 @@ This project is deployed on **Render**:
 
 ---
 
-## 🙌 Author
 
-**Prerna Sharma**
+<h2 align="center">🌸 Meet the Author 🌸</h2>
 
-* 🔗 GitHub: https://github.com/prerna-sharma-only
-* 📧 Email: *prernasharma181103@gmail.com*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+I+am+Prerna+Sharma;Full+Stack+Developer;Open+Source+Contributor;Learning+AI+and+Cloud" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prerna-sharma-only&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/prerna-sharma-only">
+    <img src="https://img.shields.io/badge/GitHub-prerna--sharma--only-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:prernasharma181103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
+
+___
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub — it helps a lot!

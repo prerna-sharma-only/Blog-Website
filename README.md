@@ -1,16 +1,12 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Blog+Website;Modern+Full-Stack+Blog+Platform;Built+with+Node.js+Express+and+EJS;Create+Read+and+Explore+Blogs" />
-
-### <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Beautiful+and+Responsive+UI;Dynamic+Server-Side+Rendering;Full-Stack+Project+for+Developers;Successfully+Deployed+on+Render" />
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff00ff&height=260&section=header&text=Blog%20Website&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Stylish%20Full-Stack%20Blog%20Application&descAlignY=60&descAlign=50" width="100%" />
+
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=2600&pause=1500&color=8A2BE2&center=true&vCenter=true&width=850&lines=Blog+Website;Modern+Full-Stack+Blog+Platform;Built+with+Node.js+Express+and+EJS;Create+Read+and+Explore+Blogs" />
+
 
 </div>
 
----
 
 <div align="center">
 
@@ -64,8 +60,6 @@ The application allows users to create and view blog posts through a simple and 
 👉 https://blog-website-z6eu.onrender.com
 
 ---
-
-<h2 align="center">📸 Screenshots</h2>
 
 <h3 align="center">🏠 Home Page</h3>
 <p align="center">
